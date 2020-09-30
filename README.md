@@ -1,2 +1,7 @@
 # coursera-test
-coursera-test repository 
+#<<<<<<< master
+#coursera-test repository
+#This is a GREAT WEBSITE
+#=======
+#coursera-test repository 
+#>>>>>>> master

@@ -1,3 +1,7 @@
 # coursera-test
-coursera-test repository
-This is a GREAT WEBSITE
+#<<<<<<< master
+#coursera-test repository
+#This is a GREAT WEBSITE
+#=======
+#coursera-test repository 
+#>>>>>>> master
